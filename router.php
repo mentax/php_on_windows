@@ -13,7 +13,8 @@ if( substr( $sHttp, -1 ) != '/' ){
 
 
 if( file_exists( $sPath ) && is_dir( $sPath ) 
-	&& !file_exists( $sPath . 'index.php' ) ) {
+ //	&& !file_exists( $sPath . 'index.php' )
+	) {
 
 	echo "<html><head><meta charset='utf-8'></head><body>";
 
