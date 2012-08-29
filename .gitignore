@@ -1,3 +1,4 @@
 
 /xdebug/*
 /php
+/var/sess/*
