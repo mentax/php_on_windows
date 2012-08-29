@@ -7,11 +7,11 @@ Musimy utworzyæ 2 symlinki. Aby to zrobiæ odpalamy CMD z UPRAWNIENIAMI ADMINISTR
  i wykonujemy 2 komendy: 
 
 1. wewn¹trz katalogu z serwerkiem: 
-  mklink /D php ./php-5.4.3-nts-Win32-VC9-x86/
+  mklink /D php .\php-5.4.3-nts-Win32-VC9-x86\
 gdzie drugi parametr to aktualnie posiadana, G£ÓWNA wersja PHP
 
 2. na dysku C: 
-  mklink /D php  D:\Programy\mtxDevServer\  
+  mklink /D php D:\Programy\mtxDevServer\  
 gdzie drugi parametr to miejsce, gdzie znajduje siê pobrany z GIT serwerek
 
 
