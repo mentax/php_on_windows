@@ -1,4 +1,5 @@
 REGEDIT4
 [HKEY_CURRENT_USER\Environment]
+"PHPRC"="c:\\php"
 "PHPBIN"="c:\\php\\php\\php.exe"
 "bin_dir"="c:\\php"
