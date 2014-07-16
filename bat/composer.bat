@@ -1,2 +1,2 @@
 @ECHO OFF
-php "%~dp0composer" %*
+php "%~dp0composer.phar" %*
