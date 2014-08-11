@@ -1,3 +1,9 @@
+mtxDevServer
+============
+
+php 5.5 + xdebug
+
+
 == KONFIGURACJA SERWERKA == 
 
 
@@ -30,5 +36,4 @@ np.
 2. poprawić ścieżki w pliku bat
 3. Dodać do ścieżki środowiskowej PATH katalog c:\php\php;c:\php\bat;c:\php\Composer\vendor\bin
 4. Wykonać PHP_ENV.reg
-
 
