@@ -2,3 +2,5 @@
 /xdebug/*
 /php
 /var/sess/*
+/Composer/cacert.pem
+/Composer/auth.json
