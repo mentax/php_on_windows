@@ -4,3 +4,4 @@
 /var/sess/*
 /Composer/cacert.pem
 /Composer/auth.json
+/Composer
