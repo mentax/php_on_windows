@@ -1,6 +1,0 @@
-{
-    "require": {
-        "squizlabs/php_codesniffer": "*",
-        "phpunit/phpunit": "4.1.*"
-    }
-}
