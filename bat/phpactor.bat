@@ -1,2 +1,2 @@
 @ECHO OFF  
-php "F:/pzu2/Tools/phpactor/bin/phpactor" %*
+php "D:/Programy/mtxDevServer/bin/phpactor/bin/phpactor" %*
