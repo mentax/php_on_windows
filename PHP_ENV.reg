@@ -3,3 +3,6 @@ REGEDIT4
 "PHPRC"="c:\\php"
 "PHPBIN"="c:\\php\\php\\php.exe"
 "bin_dir"="c:\\php"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\PHP]
+"IniFilePath"="c:\\php"
