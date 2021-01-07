@@ -13,7 +13,7 @@ Musimy utworzyć 2 symlinki. Aby to zrobić odpalamy CMD z UPRAWNIENIAMI ADMINIS
  i wykonujemy 2 komendy:
 
 1. wewnątrz katalogu z serwerkiem:
-  mklink /D php .\php-5.6.29-Win32-VC11-x86\
+  mklink /D php .\php-7.4.14-Win32-vc15-x64\
 gdzie drugi parametr to aktualnie posiadana, Główna wersja PHP
 
 2. na dysku C: 
