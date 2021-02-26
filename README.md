@@ -1,7 +1,7 @@
 mtxDevServer
 ============
 
-php 5.5 + xdebug
+php 8.0 + xdebug
 
 
 == KONFIGURACJA SERWERKA ==
