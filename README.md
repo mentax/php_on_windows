@@ -21,6 +21,11 @@ gdzie drugi parametr to aktualnie posiadana, Główna wersja PHP
 gdzie drugi parametr to miejsce, gdzie znajduje się pobrany z GIT serwerek
 
 
+3. symlink do php.ini
+  w katalogu z wersją php utworzyć symlink do php.ini
+
+
+
 3. Uruchomoenie Composera
 Przechodzimy do katalogu
 	~/AppData/Roaming/
